@@ -1,0 +1,8 @@
+2021-08-12 00:23:19,567 ----- DEBUG      config_server_log.py ----- Тестовый запуск
+2021-08-12 00:23:28,897 ----- DEBUG      config_server_log.py ----- Тестовый запуск
+2021-08-12 00:23:31,005 ----- DEBUG      config_server_log.py ----- Тестовый запуск
+2021-08-12 00:24:26,665 ----- DEBUG      server.py ----- Функция парсера отработала
+2021-08-12 00:24:28,320 ----- DEBUG      config_server_log.py ----- Тестовый запуск
+2021-08-12 00:25:38,894 ----- DEBUG      server.py ----- Функция парсера отработала
+2021-08-12 00:25:38,901 ----- DEBUG      server.py ----- Данные парсера: ArgumentParser(prog='server.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+2021-08-12 00:25:40,334 ----- DEBUG      config_server_log.py ----- Тестовый запуск
